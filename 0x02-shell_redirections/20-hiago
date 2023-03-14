@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+echo "Task20" | tr -d 'cC'
